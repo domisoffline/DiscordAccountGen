@@ -22,4 +22,3 @@ Then run this command to start the program:
 py main.py
 ```
 
-It should run the program.
